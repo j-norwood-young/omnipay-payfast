@@ -1,5 +1,5 @@
 {
-    "name": "omnipay/payfast",
+    "name": "j-norwood-young/payfast",
     "type": "library",
     "description": "PayFast driver for the Omnipay payment processing library",
     "keywords": [
@@ -10,7 +10,7 @@
         "payfast",
         "payment"
     ],
-    "homepage": "https://github.com/thephpleague/omnipay-payfast",
+    "homepage": "https://github.com/j-norwood-young/omnipay-payfast",
     "license": "MIT",
     "authors": [
         {
@@ -20,6 +20,10 @@
         {
             "name": "Omnipay Contributors",
             "homepage": "https://github.com/thephpleague/omnipay-payfast/contributors"
+        },
+        {
+            "name": "Jason Norwood-Young",
+            "email": "jason@10layer.com"
         }
     ],
     "autoload": {
